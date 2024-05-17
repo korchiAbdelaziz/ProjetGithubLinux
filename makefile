@@ -18,7 +18,7 @@ README.md: guessinggame.sh
 	echo "" >> README.md
 	echo "**Warm Regards,**" >> README.md
 	echo "\\" >> README.md
-	echo "**Piyush Sambhi**" >> README.md
+	echo "**Korchi Abdelaziz**" >> README.md
 
 clean:
 	rm README.md
